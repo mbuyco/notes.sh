@@ -1,5 +1,5 @@
 # notes.sh
-Simple notes app using vim/bash
+Simple notes CLI app using vim/bash
 
 ## Installation
 
