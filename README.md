@@ -8,7 +8,7 @@ Simple notes CLI app using vim/bash
 
 ## Installation
 
-### Linux
+### Linux/Unix
 ```shell
 $ git clone https://github.com/mbuyco/notes.sh /usr/local/bin/notes
 ```
